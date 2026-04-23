@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(PV511_T27_Inheritance main.cpp
         Lesson.cpp
-        Lesson.h)
+        Lesson.h
+        PaidLesson.cpp
+        PaidLesson.h)
